@@ -37,5 +37,5 @@ public class App {
 // Commments : 
 
 // Check for numbers below 1
-// Recursive calls for large numbers (stack oerflow)
+// Recursive calls for large numbers (stack overflow)
 // Time complexity (exponential (n^2))
