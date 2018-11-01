@@ -38,4 +38,4 @@ public class App {
 
 // Check for numbers below 1
 // Recursive calls for large numbers (stack overflow)
-// Time complexity (exponential (n^2))
+// Time complexity (exponential (2^n))
